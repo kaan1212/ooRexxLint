@@ -2,11 +2,13 @@
 
 ooRexxLint is a [lint](https://en.wikipedia.org/wiki/Lint_(software)) tool for ooRexx and classic Rexx, which is inspired by [Pylint](https://en.wikipedia.org/wiki/Pylint).
 
-## Features
+## Linter rules
 
-* Feature 1
-* Feature 2
-* Feature 3
+* Source file shall start with non-whitespace.
+* Source file shall end in a newline character.
+* No redundant newline characters allowed.
+* No trailing whitespace allowed.
+* Only 4 spaces per indentation level allowed.
 
 ## Setup
 
